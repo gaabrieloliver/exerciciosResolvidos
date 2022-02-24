@@ -2,7 +2,7 @@
 package javaproject;
 
 import java.util.Scanner;
-public class NewClass {
+public class to100 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
              
