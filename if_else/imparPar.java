@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*Dois garotos querem dividirr a melância que compraram no mercado,
 porém querem dividir de forma que esteja em par
  */
-public class exe5pdf2 {
+public class imparPar {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
