@@ -2,7 +2,7 @@
 // maior número e a média desses números.
 
 import java.util.Scanner;
-public class Ex3_MaiorMedia {
+public class MaiorMedia {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
