@@ -7,12 +7,12 @@ public class DefinindoUmArray {
         System.out.println("Defina o tamanho do array");
         int tamanhoArray = in.nextInt();
         
-        //Criando um array chamado arrayDeNum que vai receber o valor que foi digitado pelo usuário
+        //Criando um array chamado arrayDeStrings que vai receber o valor que foi digitado pelo usuário
         //pra definir o tamanho do Array.
-        String[] arrayDeNum = new String[tamanhoArray]; 
+        String[] arrayDeStrings = new String[tamanhoArray]; 
         
         //Vai mostrar na tela qual o comprimento deste Array.
-        System.out.println(arrayDeNum.length);
+        System.out.println(arrayDeStrings.length);
 
 
     }
